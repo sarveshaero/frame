@@ -1,0 +1,65 @@
+2019-11-21 11:19:03 INFO  Reports:33 - The 'CH' browser was launched successful
+2019-11-21 11:19:06 INFO  Reports:33 - Both actual 'actiTIME - Login' & expected 'actiTIME - Login' values are matching
+2019-11-21 11:19:06 INFO  Reports:33 - The value 'admin' was entered in the element 'By.id: username' successful
+2019-11-21 11:19:06 INFO  Reports:33 - The value 'manager' was entered in the element 'By.name: pwd' successful
+2019-11-21 11:19:06 INFO  Reports:33 - The element 'By.tagName: a' was clicked successful
+2019-11-21 11:19:11 INFO  Reports:33 - The element 'By.xpath: //div[@style='display: block;']' was present in the DOM
+2019-11-21 11:19:11 INFO  Reports:33 - The element 'By.id: gettingStartedShortcutsMenuCloseId' was clicked successful
+2019-11-21 11:19:11 INFO  Reports:33 - Login to the application was successful
+2019-11-21 11:19:11 INFO  Reports:33 - The element 'By.xpath: //a[@id='logoutLink']' was clicked successful
+2019-11-21 11:19:13 INFO  Reports:33 - Both actual 'Please identify yourself' & expected 'Please identify yourself' values are matching
+2019-11-21 11:19:13 INFO  Reports:33 - Logout from the application was successful
+2019-11-21 11:19:13 INFO  Reports:33 - The test script 'TS_LoginLogout()' was Passed.
+2019-11-21 11:19:23 INFO  Reports:33 - The 'CH' browser was launched successful
+2019-11-21 11:19:26 INFO  Reports:33 - Both actual 'actiTIME - Login' & expected 'actiTIME - Login' values are matching
+2019-11-21 11:19:26 INFO  Reports:33 - The value 'admin' was entered in the element 'By.id: username' successful
+2019-11-21 11:19:26 INFO  Reports:33 - The value 'manager' was entered in the element 'By.name: pwd' successful
+2019-11-21 11:19:27 INFO  Reports:33 - The element 'By.tagName: a' was clicked successful
+2019-11-21 11:19:31 INFO  Reports:33 - The element 'By.xpath: //div[@style='display: block;']' was present in the DOM
+2019-11-21 11:19:31 INFO  Reports:33 - The element 'By.id: gettingStartedShortcutsMenuCloseId' was clicked successful
+2019-11-21 11:19:31 INFO  Reports:33 - Login to the application was successful
+2019-11-21 11:19:32 INFO  Reports:33 - The element 'By.xpath: //div[text()='USERS']' was clicked successful
+2019-11-21 11:19:34 INFO  Reports:33 - The element 'By.xpath: //div[text()='Add User']' was clicked successful
+2019-11-21 11:19:37 INFO  Reports:33 - The value 'automation' was entered in the element 'By.name: firstName' successful
+2019-11-21 11:19:37 INFO  Reports:33 - The value 'user1' was entered in the element 'By.name: lastName' successful
+2019-11-21 11:19:38 INFO  Reports:33 - The value 'automation.user1@sg.com' was entered in the element 'By.name: email' successful
+2019-11-21 11:19:38 INFO  Reports:33 - The value 'automation.user1' was entered in the element 'By.name: username' successful
+2019-11-21 11:19:38 INFO  Reports:33 - The value 'Mercury' was entered in the element 'By.name: password' successful
+2019-11-21 11:19:38 INFO  Reports:33 - The value 'Mercury' was entered in the element 'By.name: passwordCopy' successful
+2019-11-21 11:19:39 INFO  Reports:33 - The element 'By.xpath: //span[text()='Create User']' was clicked successful
+2019-11-21 11:19:41 INFO  Reports:33 - The element 'By.xpath: //div[@class='name']/span[text()='user1, automation']' was present in the DOM
+2019-11-21 11:19:41 INFO  Reports:33 - The user was creted successful
+2019-11-21 11:19:41 INFO  Reports:33 - The element 'By.xpath: //div[@class='name']/span[text()='user1, automation']' was clicked successful
+2019-11-21 11:19:43 INFO  Reports:33 - The element 'By.xpath: //button[contains(text(),'Delete User')]' was clicked successful
+2019-11-21 11:19:47 INFO  Reports:33 - The element 'By.xpath: //div[@class='name']/span[text()='user1, automation']' doesnot present as expected
+2019-11-21 11:19:47 INFO  Reports:33 - The user was deleted successful
+2019-11-21 11:19:48 INFO  Reports:33 - The element 'By.xpath: //a[@id='logoutLink']' was clicked successful
+2019-11-21 11:19:50 INFO  Reports:33 - Both actual 'Please identify yourself' & expected 'Please identify yourself' values are matching
+2019-11-21 11:19:50 INFO  Reports:33 - Logout from the application was successful
+2019-11-21 11:19:50 INFO  Reports:33 - The test script 'TS_CreateDeleteUser()' was Passed.
+2019-11-21 11:19:59 INFO  Reports:33 - The 'CH' browser was launched successful
+2019-11-21 11:20:02 INFO  Reports:33 - Both actual 'actiTIME - Login' & expected 'actiTIME - Login' values are matching
+2019-11-21 11:20:02 INFO  Reports:33 - The value 'admin' was entered in the element 'By.id: username' successful
+2019-11-21 11:20:02 INFO  Reports:33 - The value 'manager' was entered in the element 'By.name: pwd' successful
+2019-11-21 11:20:03 INFO  Reports:33 - The element 'By.tagName: a' was clicked successful
+2019-11-21 11:20:07 INFO  Reports:33 - The element 'By.xpath: //div[@style='display: block;']' was present in the DOM
+2019-11-21 11:20:07 INFO  Reports:33 - The element 'By.id: gettingStartedShortcutsMenuCloseId' was clicked successful
+2019-11-21 11:20:07 INFO  Reports:33 - Login to the application was successful
+2019-11-21 11:20:07 INFO  Reports:33 - The element 'By.xpath: //div[text()='TASKS']' was clicked successful
+2019-11-21 11:20:09 INFO  Reports:33 - The element 'By.xpath: //div[text()='Add New']' was clicked successful
+2019-11-21 11:20:12 INFO  Reports:33 - The element 'By.xpath: //div[@class='item createNewCustomer ellipsis']' was clicked successful
+2019-11-21 11:20:14 INFO  Reports:33 - The value 'SG Classes Bangalore' was entered in the element 'By.xpath: //input[@class='inputFieldWithPlaceholder']' successful
+2019-11-21 11:20:14 INFO  Reports:33 - The value 'SG Class for Automation Testing' was entered in the element 'By.xpath: //textarea[@class='inputFieldWithPlaceholder']' successful
+2019-11-21 11:20:14 INFO  Reports:33 - The element 'By.xpath: //div[@class='greyButton withIcon commitBtn']' was clicked successful
+2019-11-21 11:20:16 ERROR Reports:36 - The element 'By.xpath: //div[text()='SG Classes Bangalore ']' exist in the DOM
+2019-11-21 11:20:16 ERROR Reports:36 - Failed to create the Customer
+2019-11-21 11:20:17 INFO  Reports:33 - The element 'By.xpath: //div[@class='editButton available']' was clicked successful
+2019-11-21 11:20:19 INFO  Reports:33 - The element 'By.xpath: //div[@class='actionButton']' was clicked successful
+2019-11-21 11:20:21 INFO  Reports:33 - The element 'By.xpath: //div[text()='Delete']' was clicked successful
+2019-11-21 11:20:23 INFO  Reports:33 - The element 'By.id: customerPanel_deleteConfirm_submitTitle' was clicked successful
+2019-11-21 11:20:25 INFO  Reports:33 - The element 'By.xpath: //div[text()='SG Classes Bangalore ']' doesnot present as expected
+2019-11-21 11:20:25 INFO  Reports:33 - The Customer was deleted successful
+2019-11-21 11:20:26 INFO  Reports:33 - The element 'By.xpath: //a[@id='logoutLink']' was clicked successful
+2019-11-21 11:20:28 INFO  Reports:33 - Both actual 'Please identify yourself' & expected 'Please identify yourself' values are matching
+2019-11-21 11:20:28 INFO  Reports:33 - Logout from the application was successful
+2019-11-21 11:20:28 ERROR Reports:36 - The test script 'TS_CreateDeleteUser()' was failed.
